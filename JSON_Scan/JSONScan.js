@@ -41,4 +41,4 @@ console.log(find(menu, "user", "one"));
 
 console.log(find(menu, "two", ""));
 
-console.log(find(menu, "admin", "one"));
+console.log(find(menu, "admin", ""));
